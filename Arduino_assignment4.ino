@@ -8,4 +8,4 @@ int capValue = analogRead(capPin);
 Serial.print("Capacitor Voltage Reading: ");
 Serial.println(capValue);
 delay(200);
-}s
+}
